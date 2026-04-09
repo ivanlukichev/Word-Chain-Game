@@ -1,45 +1,60 @@
-# Word Chain Game
+<h1 align="center">Word Chain Game</h1>
 
-Word Chain Game is a browser-based word puzzle where each new word must start with the last letter of the previous one.
+<p align="center">
+  A lightweight word puzzle where every next answer begins with the last letter of the previous one.
+</p>
 
-🌐 Website  
-https://word-chain-game.com/
+<p align="center">
+  <a href="https://word-chain-game.com/"><strong>Play Now</strong></a>
+  ·
+  <a href="https://github.com/ivanlukichev/Word-Chain-Game"><strong>GitHub Repo</strong></a>
+  ·
+  <a href="https://github.com/ivanlukichev"><strong>More Projects</strong></a>
+</p>
 
-## About
+<p align="center">
+  <a href="https://word-chain-game.com/">
+    <img src="assets/preview.svg" alt="Word Chain Game preview" width="900">
+  </a>
+</p>
 
-Word Chain Game is a simple language-based puzzle designed for quick play sessions.
+## What It Is
 
-Players build a chain of words where every next word begins with the last letter of the previous one. The goal is to continue the chain as long as possible without repeating words.
+Word Chain Game is a fast browser word puzzle built around one clear rule: keep the chain alive by starting each new word with the final letter of the previous one. The idea is familiar, but the delivery is streamlined for short web sessions and instant replayability.
 
-The game works directly in the browser and requires no installation or registration.
+This public repo is meant to be a clean front door for the product rather than a technical dump. It shows what the game is, where to play it, and how it fits into a broader family of small web projects.
 
-## Gameplay
+## Why It Feels Different
 
-Players create a chain of words:
+- One mechanic is enough when the pacing feels good.
+- The game works as both a puzzle and a vocabulary challenge.
+- Browser-first delivery removes all setup friction.
+- The GitHub page is shaped as a public product card for sharing.
 
-- Each new word must start with the last letter of the previous word
-- Words cannot be repeated
-- The goal is to extend the chain as long as possible
+## Project Snapshot
 
-This simple mechanic creates a fun mix of vocabulary challenge and puzzle gameplay.
+- Genre: word puzzle
+- Language: English
+- Stack: static front end
+- Core loop: continue the letter chain without repeating words
+- UX goal: instant play and short repeatable sessions
 
-## Features
+## More Projects
 
-- Classic word chain mechanics
-- Quick browser-based gameplay
-- Works on desktop and mobile
-- Vocabulary and language challenge
-- Designed for short play sessions
+| Project | Live site | Public repo |
+| --- | --- | --- |
+| Goroda | [goroda-na.ru](https://goroda-na.ru/) | [Goroda-na](https://github.com/ivanlukichev/Goroda-na) |
+| Slova Game | [slova-game.ru](https://slova-game.ru/) | [SlovaGame](https://github.com/ivanlukichev/SlovaGame) |
+| BlockPlay | [blockplaygame.com](https://blockplaygame.com/) | [BlockPlay-Game](https://github.com/ivanlukichev/BlockPlay-Game) |
+| PlayMathPuzzles | [playmathpuzzles.com](https://playmathpuzzles.com/) | [PlayMathPuzzles](https://github.com/ivanlukichev/PlayMathPuzzles) |
+| Number Hunt | [numberhuntgame.com](https://numberhuntgame.com/) | [numberhuntgame](https://github.com/ivanlukichev/numberhuntgame) |
+| Sudoku Play | [sudoku-play.org](https://sudoku-play.org/) | [Sudoku-Play](https://github.com/ivanlukichev/Sudoku-Play) |
+| PickWinner | [pickwinner.tools](https://pickwinner.tools/) | [pickwinner](https://github.com/ivanlukichev/pickwinner) |
+| HTTPTools | [httptools.net](https://httptools.net/) | [HTTPTools](https://github.com/ivanlukichev/HTTPTools) |
 
-## Philosophy
+## Visit
 
-Word Chain Game follows the idea of lightweight browser games built around simple rules and instant accessibility.
-
-Open the page and start playing immediately.
-
-## Author
-
-Created by **Ivan Lukichev**
-
-More projects:  
-https://lukichev.biz/
+<p>
+  <a href="https://word-chain-game.com/"><strong>Open Word Chain Game</strong></a><br>
+  A simple language puzzle for quick browser sessions and replayable word chains.
+</p>
